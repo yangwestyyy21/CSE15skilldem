@@ -1,4 +1,4 @@
-public class skilldem{
+public class skilldemnew{
     public static String testMethod(String input){
         return "Output is "+input;
     }
